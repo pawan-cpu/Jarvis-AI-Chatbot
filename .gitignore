@@ -1,11 +1,15 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Installation
+To install JarvisAI, follow these steps:
 
-# Other files and folders
-.settings/
+Clone the repository:git clone https://github.com/your-username/jarvisai.git
+
+# Install dependencies:
+cd jarvisai
+pip install -r requirements.txt
+
+Run the chatbot:
+python chatbot.py
+
 
 # Executables
 *.swf
